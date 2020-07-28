@@ -11,3 +11,5 @@
 - 💻  Python | C | C++ | Go | Verilog-HDL
 - 🔧  Git | Markdown | VSCode | Vim
 - 🤖 TensorFlow Lite | ONNX Runtime
+
+![mshr-h's github stats](https://github-readme-stats.vercel.app/api?username=mshr-h&count_private=true)
