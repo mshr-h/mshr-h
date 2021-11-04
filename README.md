@@ -1,15 +1,20 @@
 ### Hi there 👋
 
+Please feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/masahiro-hiramori-63b992167/). I am always happy to talk, answer questions, or discuss new opportunities.
+
 **I am Masahiro Hiramori**
 
-- TinyML researcher
-- Machine learning compiler
+- Machine learning/cloud computing/IoT researcher
+- Creator and maintainer of Verilog-HDL/SystemVerilog for VSCcode extension
 - Bouldering hobbyist
 
 **Tech Stack**
 
 - 💻  Python | C | C++ | Go | Verilog-HDL
 - 🔧  Git | Markdown | VSCode | Vim
-- 🤖 TensorFlow Lite | ONNX Runtime | TVM
+- 🤖 TVM | ONNX-MLIR | ONNX Runtime | TensorFlow Lite
 
-![mshr-h's github stats](https://github-readme-stats.vercel.app/api?username=mshr-h&count_private=true&show_icons=true)
+## Summary📊
+
+[![mshr-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshr-h&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mshr-h/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshr-h&layout=compact&theme=tokyonight)](https://github.com/mshr-h/)
