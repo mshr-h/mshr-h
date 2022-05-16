@@ -5,14 +5,15 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 **I am Masahiro Hiramori**
 
 - Machine learning/cloud computing/IoT researcher
-- Creator and maintainer of Verilog-HDL/SystemVerilog for VSCcode extension
-- Bouldering hobbyist
+- Creator and maintainer of [Verilog-HDL/SystemVerilog for VSCcode extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
+- Contributor of machine learning framework/library such as Apache TVM and ONNX-MLIR
+- Rock climbing hobbyist
 
 **Tech Stack**
 
 - 💻  Python | C | C++ | Go | Verilog-HDL
-- 🔧  Git | Markdown | VSCode | Vim
-- 🤖 TVM | ONNX-MLIR | ONNX Runtime | TensorFlow Lite
+- 🔧  Git | [Vim](https://github.com/mshr-h/dotfiles) | Markdown | VSCode
+- 🤖 [TVM](https://github.com/apache/tvm) | [Hummingbird](https://github.com/microsoft/hummingbird) | [ONNX-MLIR](https://github.com/onnx/onnx-mlir) | [ONNX Runtime](https://github.com/microsoft/onnxruntime) | [TensorFlow Lite](https://www.tensorflow.org/lite)
 
 ## Summary📊
 
