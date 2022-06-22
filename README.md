@@ -6,7 +6,7 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 
 - Machine learning/cloud computing/IoT researcher
 - Creator and maintainer of [Verilog-HDL/SystemVerilog for VSCcode extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
-- Contributor of machine learning framework/library such as Apache TVM and ONNX-MLIR
+- Contributor of machine learning framework/library such as [Apache TVM](https://github.com/apache/tvm), [Hummingbird](https://github.com/microsoft/hummingbird) and [ONNX-MLIR](https://github.com/onnx/onnx-mlir)
 - Rock climbing hobbyist
 
 **Tech Stack**
@@ -14,6 +14,7 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 - 💻  Python | C | C++ | Go | Verilog-HDL
 - 🔧  Git | [Vim](https://github.com/mshr-h/dotfiles) | Markdown | VSCode
 - 🤖 [TVM](https://github.com/apache/tvm) | [Hummingbird](https://github.com/microsoft/hummingbird) | [ONNX-MLIR](https://github.com/onnx/onnx-mlir) | [ONNX Runtime](https://github.com/microsoft/onnxruntime) | [TensorFlow Lite](https://www.tensorflow.org/lite)
+- Linux | PetaLinux | Xilinx FPGA
 
 ## Summary📊
 
