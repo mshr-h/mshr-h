@@ -14,7 +14,7 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 - 💻  Python | C | C++ | Go | Verilog-HDL
 - 🔧  Git | [Vim](https://github.com/mshr-h/dotfiles) | Markdown | VSCode
 - 🤖 [TVM](https://github.com/apache/tvm) | [Hummingbird](https://github.com/microsoft/hummingbird) | [ONNX-MLIR](https://github.com/onnx/onnx-mlir) | [ONNX Runtime](https://github.com/microsoft/onnxruntime) | [TensorFlow Lite](https://www.tensorflow.org/lite)
-- Linux | PetaLinux | Xilinx FPGA
+- OSS contribution | Linux | PetaLinux | Xilinx FPGA
 
 ## Summary📊
 
