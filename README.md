@@ -4,16 +4,16 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 
 **I am Masahiro Hiramori**
 
-- Machine learning/cloud computing/IoT researcher
+- Machine learning compiler researcher
 - Creator and maintainer of [Verilog-HDL/SystemVerilog for VSCcode extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
-- Contributor of machine learning framework/library such as [Apache TVM](https://github.com/apache/tvm), [Hummingbird](https://github.com/microsoft/hummingbird) and [ONNX-MLIR](https://github.com/onnx/onnx-mlir)
+- Contributor of machine learning framework/library such as [Apache TVM](https://github.com/apache/tvm), [Hummingbird](https://github.com/microsoft/hummingbird), [PyTorch](https://github.com/pytorch/pytorch) and [ONNX-MLIR](https://github.com/onnx/onnx-mlir)
 - Rock climbing hobbyist ([MoonBoard Dashboard](https://www.moonboard.com/Account/Profile/88025037-a17c-4c39-bbc4-bb36b7da7ee4))
 
 **Tech Stack**
 
 - 💻  Python | C | C++
 - 🔧  [Vim](https://github.com/mshr-h/dotfiles) | Markdown | VSCode
-- 🤖 [TVM](https://github.com/apache/tvm) | [Hummingbird](https://github.com/microsoft/hummingbird)
+- 🤖 [PyTorch](https://github.com/pytorch/pytorch) | [TVM](https://github.com/apache/tvm) | [Hummingbird](https://github.com/microsoft/hummingbird)
 
 **Personal Projects**
 
