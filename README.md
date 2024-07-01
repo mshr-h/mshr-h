@@ -11,9 +11,10 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 
 **Tech Stack**
 
-- 💻  Python | C | C++
-- 🔧  [Vim](https://github.com/mshr-h/dotfiles) | Markdown | VSCode
-- 🤖 [PyTorch](https://github.com/pytorch/pytorch) | [TVM](https://github.com/apache/tvm) | [Hummingbird](https://github.com/microsoft/hummingbird)
+[![My Skills](https://skillicons.dev/icons?i=c,py,git,linux,obsidian,pytorch,raspberrypi,vim,vscode)](https://skillicons.dev)
+
+- [Apache TVM](https://github.com/apache/tvm) contributor
+- [Hummingbird](https://github.com/microsoft/hummingbird) committer
 
 **Personal Projects**
 
