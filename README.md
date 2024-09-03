@@ -22,5 +22,6 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 
 ## Summary📊
 
-[![mshr-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshr-h&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mshr-h/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshr-h&layout=compact&theme=tokyonight)](https://github.com/mshr-h/)
+[![](https://ossrank.com/widget/514009)](https://ossrank.com/c/514009)
+
+[![mshr-h's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshr-h&count_private=true&show_icons=true)](https://github.com/mshr-h/)
