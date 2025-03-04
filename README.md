@@ -6,8 +6,7 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 
 - Machine learning compiler researcher
 - Committer for [Apache TVM](https://github.com/apache/tvm) and [Hummingbird](https://github.com/microsoft/hummingbird)
-- Creator and maintainer of [Verilog-HDL/SystemVerilog for VSCcode extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
-- Rock climbing hobbyist ([MoonBoard Dashboard](https://www.moonboard.com/Account/Profile/88025037-a17c-4c39-bbc4-bb36b7da7ee4))
+- Creator and maintainer of [Verilog-HDL/SystemVerilog for VSCode extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
 
 **Tech Stack**
 
