@@ -4,6 +4,6 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 
 **I am Masahiro Hiramori**
 
-- Machine learning compiler researcher
+- Open-Source AI engineer
 - Committer for [Apache TVM](https://github.com/apache/tvm) and [Hummingbird](https://github.com/microsoft/hummingbird)
 - Creator and maintainer of [Verilog-HDL/SystemVerilog for VSCode extension](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
